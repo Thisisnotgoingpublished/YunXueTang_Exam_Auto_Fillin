@@ -4,7 +4,7 @@
 
 <i>Chrome使用油猴子 解锁右键复制</i>
 
-<i>Chrome download tampermonkey and install the right-click unlock javascript</i>
+<i>On Chrome, download tampermonkey and install the right-click unlock javascript</i>
 
 <i></i>
 
@@ -43,6 +43,6 @@
 
 <i>作者不是编程或是电脑科学专业的 无法写出更高超的内容</i>
 
-<i>I'm not a professional coding either one who study computer science</i>
+<i>I am not a professional coding either one who study computer science</i>
 
 <i>This is what the most that I could do here</i>
