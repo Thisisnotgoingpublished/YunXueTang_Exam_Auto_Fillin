@@ -11,7 +11,7 @@
 
 <i>把题库手动摘出来</i>
 
-<i>Export the paper qurey</i>
+<i>Export the paper qurey...</i>
 
 <i></i>
 
