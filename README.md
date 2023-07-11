@@ -1,8 +1,13 @@
 # YunXueTang_Exam_Auto_Fillin
 <b>云学堂考试自动识别得出答案</b>
 
+不会修补bug的 不会做任何事情
+我就这个命 没必要太投入
+各位
+好自为之 自求多福
 
-<i>Chrome使用油猴子 解锁右键复制</i>
+
+<i>Chrome使用篡改猴 解锁右键复制</i>
 
 <i>On Chrome, download tampermonkey and install the right-click unlock javascript</i>
 
